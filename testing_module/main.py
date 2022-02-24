@@ -2,7 +2,7 @@
 This is the entry point of diagnosis of stark , bms and controller.
 
 '''
-
+import time
 import can
 import serial
 import logging
@@ -10,6 +10,13 @@ from constants import (SERIAL_PORT, SERIAL_BAUDRATE, CAN_BUSTYPE, CAN_CHANNEL, C
 from stark_testing import stark_testing_function
 from bms_testing import bms_testing_function
 from controller_testing import controller_testing_function
+
+logging.basicConfig(filename = "stark_logs.txt",
+                    filemode = "a",
+                    format = '%(asctime)s %(levelname)s-%(message)s',
+                    datefmt = '%Y-%m-%d %H:%M:%S',
+                    level = logging.NOTSET)
+
 
 try:
     can_bus = can.interface.Bus(bustype=CAN_BUSTYPE, channel=CAN_CHANNEL,bitrate=CAN_BITRATE)
@@ -29,10 +36,6 @@ try:
 except:
     logging.error("Serial connection Problem")
 
-logging.basicConfig(filename = "stark_logs.txt",
-                    filemode = "a",
-                    format = '%(asctime)s %(levelname)s-%(message)s',
-                    datefmt = '%Y-%m-%d %H:%M:%S')
 
 def test_all_parts():
     """This is the main function which will be invoked in flask.
@@ -40,6 +43,14 @@ def test_all_parts():
     Returns:
         _type_: _description_
     """
+    time.sleep(1)
+    ser.write(b"DIAG_STARK_STOP\t")
+    time.sleep(1)
+    ser.write(b"DIAG_BMS_STOP\t")
+    time.sleep(1)
+    ser.write(b"DIAG_CONTROLLER_STOP\t")
+    time.sleep(1)
+
     if stark_testing_function(can_bus,ser):
         if bms_testing_function(ser):
             if controller_testing_function(ser):

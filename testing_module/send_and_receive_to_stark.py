@@ -6,7 +6,7 @@ will receive and validate serial output.
 import time
 import can
 import logging
-from constants import (CAN_INPUT_ID, CHECK_BUFFER_DATA_COUNTER)
+from constants import (CAN_INPUT_ID, CHECK_BUFFER_DATA_COUNTER, STARK_OUTPUT_LENGTH)
 from validate_stark_output import verify_serial
 
 
@@ -31,22 +31,23 @@ def send_receive_validate(can_bus,ser,input_msg):
         logging.error("Message Not Sent")
         print("Message NOT sent")
     
-    time.sleep(7)
+    time.sleep(5)
 
     msg_buffer_size = ser.inWaiting()
-    print(msg_buffer_size)
     data = ser.read(msg_buffer_size)
     info = data.decode("UTF-8")
 
     if info.split(",")[0] == "DIAG_STARK_START":
-        print(info)
-        res = verify_serial(info)
-        if res==True:
-            return True
+        if len(info) == STARK_OUTPUT_LENGTH:
+            res = verify_serial(info)
+            if res==True:
+                return True
+            else:
+                return False
         else:
-            return False
+            logging.critical("Following Message received: %s" %str(info))
     else:
-        logging.critical("Following Message received: %s" %info)
+        logging.critical("Following Message received: %s" %str(info))
 
 
 

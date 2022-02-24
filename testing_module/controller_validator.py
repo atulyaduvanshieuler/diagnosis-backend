@@ -3,6 +3,7 @@ This module will validate the controller output.
 """
 import time
 import logging
+from tkinter import EXCEPTION
 from constants import SERIAL_DATA_LOG_FILENAME
 
 def controller_validation_function(ser,controller_output):
@@ -70,11 +71,12 @@ def controller_validation_function(ser,controller_output):
 
         if flag == False:
             return False
-            
         return True
-    except:
+    except Exception as e:
+        time.sleep(1)
         ser.write("DIAG_CONTROLLER_STOP\t")
-        time.sleep(0.1)
+        time.sleep(1)
+        logging.info("DIAG_CONTROLLER_STOP command ran in controller_validation_function exception handling with following exception: %s" %e)
 
 
 

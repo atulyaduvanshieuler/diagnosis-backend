@@ -27,8 +27,10 @@ def bms_validation_function(ser,bms_output):
             return False
         return True
     except:
+        time.sleep(1)
         ser.write(b"DIAG_BMS_STOP\t")
-        time.sleep(0.1)
+        time.sleep(1)
+        logging.info("DIAG_BMS_STOP command ran in bms_validation_function exception handling")
 
 
 
