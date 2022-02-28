@@ -5,23 +5,18 @@ This is the entry point of diagnosis of stark , bms and controller.
 import time
 import can
 import serial
-import logging
-from constants import (SERIAL_PORT, SERIAL_BAUDRATE, CAN_BUSTYPE, CAN_CHANNEL, CAN_BITRATE)
-from stark_testing import stark_testing_function
-from bms_testing import bms_testing_function
-from controller_testing import controller_testing_function
-
-logging.basicConfig(filename = "stark_logs.txt",
-                    filemode = "a",
-                    format = '%(asctime)s %(levelname)s-%(message)s',
-                    datefmt = '%Y-%m-%d %H:%M:%S',
-                    level = logging.NOTSET)
-
+from shared.loggers import general_logger, error_logger
+from stark_testing_package import test_stark
+from bms_testing_package import test_bms
+from controller_testing_package import test_controller
+from shared.stop_diagnosis_mode import diag_stop_function
+from shared.constants import (SERIAL_PORT, SERIAL_BAUDRATE, CAN_BUSTYPE, CAN_CHANNEL, CAN_BITRATE)
+from shared.response_object import test_resp
 
 try:
     can_bus = can.interface.Bus(bustype=CAN_BUSTYPE, channel=CAN_CHANNEL,bitrate=CAN_BITRATE)
 except:
-    logging.error("Can Bus connection Problem")
+    general_logger.error("Can Bus connection Problem")
 
 try:
     ser = serial.Serial(
@@ -34,35 +29,43 @@ try:
             timeout=0,
         )
 except:
-    logging.error("Serial connection Problem")
+    general_logger.error("Serial connection Problem")
 
 
 def test_all_parts():
+
     """This is the main function which will be invoked in flask.
 
     Returns:
         _type_: _description_
     """
-    time.sleep(1)
-    ser.write(b"DIAG_STARK_STOP\t")
-    time.sleep(1)
-    ser.write(b"DIAG_BMS_STOP\t")
-    time.sleep(1)
-    ser.write(b"DIAG_CONTROLLER_STOP\t")
-    time.sleep(1)
 
-    if stark_testing_function(can_bus,ser):
-        if bms_testing_function(ser):
-            if controller_testing_function(ser):
-                return "All Tests Passed"
+    diag_stop_function(ser)
+
+    if test_stark(can_bus,ser):
+        if test_bms(ser):
+            if test_controller(ser):
+                diag_stop_function(ser)
+                general_logger.info("All Tests Passed")
+                test_resp["test_status"] = "All Tests Passed"
+                return test_resp
             else:
-                return "Controller Testing Failed"
+                diag_stop_function(ser)
+                general_logger.info("Controller Testing Failed")
+                test_resp["test_status"] = "Controller Testing Failed"
+                return test_resp
         else:
-            return "BMS Testing Failed"
+            diag_stop_function(ser)
+            general_logger.info("BMS Testing Failed")
+            test_resp["test_status"] = "BMS Testing Failed"
+            return test_resp
     else:
-        return "Stark Testing Failed"
+        diag_stop_function(ser)
+        general_logger.info("Stark Testing Failed")
+        test_resp["test_status"] = "Stark Testing Failed"
+        return test_resp
     
-print(test_all_parts())
+
 
     
 

@@ -1,0 +1,7 @@
+2022-02-25 18:25:29,273 INFO-logging_config -This is where general logger is starting.
+2022-02-25 18:31:32,815 INFO-logging_config -This is where general logger is starting.
+2022-02-25 18:31:32,815 INFO-main -In main
+2022-02-25 18:32:32,016 INFO-main -In main
+2022-02-25 18:32:45,619 INFO-main -In main
+2022-02-25 18:34:13,590 INFO - LogGenerationFile: main -In main
+2022-02-25 18:35:18,058 INFO - LogGenerationFile: main - Line Number: 17 - Log:In main

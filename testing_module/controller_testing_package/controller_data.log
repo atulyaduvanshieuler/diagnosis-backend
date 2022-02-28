@@ -1,0 +1,1152 @@
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 18:00:24,316 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,346 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,347 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:24:53,348 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:24:53,349 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,466 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,467 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,468 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:25:01,469 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:25:01,470 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:25:01,470 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,311 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:27:01,312 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:27:01,313 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:27:01,314 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:27:01,315 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:27:01,315 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:27:01,315 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:27:01,315 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:27:01,315 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,612 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,613 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,614 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:32:18,615 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,213 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,214 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,215 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:33:28,216 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:33:28,217 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:33:28,217 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:33:28,217 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:33:28,217 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:33:28,217 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:34:24,809 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:34:24,809 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,809 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,809 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,810 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,811 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,812 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:34:24,813 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,823 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,824 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,825 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:35:35,826 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:35:35,827 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is -52
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 25 - Log:The vaue of ControllerData Motor Temp is 202
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is -52
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,638 ERROR - LogGenerationFile: controller_validator - Line Number: 32 - Log:The vaue of ControllerData Controller Temp is 202
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is -502
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 44 - Log:The value of ControllerData Frequency is 502
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is -102
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,639 ERROR - LogGenerationFile: controller_validator - Line Number: 50 - Log:The value of ControllerData Motor Torque is 102
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is -1
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 252
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is -1
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 252
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,640 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is -1
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 252
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 8
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 102
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 3
+2022-02-28 19:49:14,641 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 102
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 3
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 56 - Log:The value of ControllerData Acceleration Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 62 - Log:The value of ControllerData Acceleration Release Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 68 - Log:The value of ControllerData Brake Rate is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 74 - Log:The value of ControllerData Drive Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 80 - Log:The value of ControllerData Regen Current Limit is 0
+2022-02-28 19:49:14,642 ERROR - LogGenerationFile: controller_validator - Line Number: 86 - Log:The value of ControllerData Brake Current Limit is 102

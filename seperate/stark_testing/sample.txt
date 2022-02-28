@@ -1,0 +1,25 @@
+def check_can_and_serial_of_stark(test_data, test_data_cksm):
+    send_data_on_can(test_data)
+    serial_data = get_data_from_serial_bus()
+    cksm_of_serial_data = calculate_cksm(serial_data)
+    return cksm_of_serial_data == test_data_cksm
+
+
+def check_only_bms_data_of_stark():
+    if check_can_data_from_bms() is False:
+        return False
+    return check_validity_of_bms_data(receive_bms_data_from_can())
+
+@retry(count=RETRY_COUNTER)
+def send_and_recv(ser, can):
+    # Code
+
+
+# retry decorator
+with serial.Serial() as ser_bus:
+    with can.Can() as can_bus:
+        initiate_diagnosis(ser)
+        check_can_and_serial_of_stark(can, ser, "Atul", calculate_cksm("Atul"))
+        check_only_bms_data_of_stark(can, ser)
+        check_only_motor_controller_data_of_stark(can, ser)
+        end_diagnosis(ser)

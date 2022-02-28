@@ -2,26 +2,30 @@
 This module is the entry point for bms testing
 """
 import time
-import logging
-from constants import (TESTING_COUNTER, BMS_OUTPUT_LENGTH)
-from bms_validator import bms_validation_function
+from shared.constants import (TESTING_COUNTER, BMS_OUTPUT_LENGTH)
+from shared.connections import ser
+from shared.loggers import (bms_data_logger,bms_error_logger,bms_general_logger)
 
-def bms_testing_function(ser):
+
+from bms_testing_package.bms_validator import bms_validation_function
+
+
+def bms_testing_function():
     
     """
-        It will receive bms data from serial port and get it validated
+        It will receive bms data from serial port and get it validated from bms_validator.py
 
     Args:
         can_bus (_type_): can connection object
         ser (_type_): serial connection object
     """
-    logging.critical("BMS testing started")
+
+    bms_general_logger.info("BMS testing started")
     print("BMS testing started")
+
     time.sleep(1)
     ser.write(b"DIAG_BMS_START\t")
     time.sleep(1)
-
-    
 
     try:
         counter=0
@@ -33,58 +37,59 @@ def bms_testing_function(ser):
             msg_buffer_size = ser.inWaiting()
             data = ser.read(msg_buffer_size)
             info = data.decode("UTF-8")
-            
+
+            # Measures taken because of serial behaviour
             if counter==1:
                 continue
 
-            if info.split(',')[0]=="DIAG_BMS_START" and len(info) == BMS_OUTPUT_LENGTH:
+            try:
+                bms_data_logger.info(str(info))
+            except:
+                bms_error_logger.error("BMS log not added ")
+
+            if info.split(',').count("DIAG_BMS_START") == 1:
+
                 res = bms_validation_function(ser,info)
 
                 if res == False:
+
                     time.sleep(1)
                     ser.write(b"DIAG_BMS_STOP\t")
                     time.sleep(1)
+                    
+                    bms_general_logger.critical("BMS output was somehow wrong. (For reasons check above logs or data_logs file.) ")
                     return False
             else:
                 error_counter += 1
-                
-                if error_counter < 4:
-                    logging.critical("For BMS Diagnosis following message received: %s " %str(info))
-                else:
+                bms_general_logger.critical("Wrong BMS output: %s " %str(info))
+
+                if error_counter >= 4:
                     #May Need to remove this part and also remove error_counter while removing this
+                    
                     time.sleep(1)        
                     ser.write(b"DIAG_BMS_STOP\t")
                     time.sleep(1)
-                    logging.info("DIAG_BMS_STOP command ran because of error_counter limit exceeded")
-                    logging.error("Stark Repetedly gave following output: %s" %str(info))
+
+                    bms_general_logger.critical("DIAG_BMS_STOP command ran because of error_counter limit exceeded")
+
                     return False
 
             time.sleep(5)
+
         time.sleep(1)        
         ser.write(b"DIAG_BMS_STOP\t")
         time.sleep(1)
-        logging.info("DIAG_BMS_STOP command ran and bms testing successful")
+
+        bms_general_logger.info("DIAG_BMS_STOP command ran and BMS TESTING SUCCESSFULL")
+        
         return True
 
     except Exception as e:
-        logging.error(e)
+
+        bms_error_logger.error(e)
         time.sleep(1)
         ser.write(b"DIAG_BMS_STOP\t")
         time.sleep(1)
-        logging.info("DIAG_BMS_STOP command ran in exception handling in bms_testing_function")
+        bms_error_logger.info("DIAG_BMS_STOP command ran in exception handling in bms_testing_function")
+
         return False
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
