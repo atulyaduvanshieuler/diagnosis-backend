@@ -11,7 +11,7 @@ from shared.loggers import (general_logger, error_logger)
 try:
     can_bus = can.interface.Bus(bustype=CAN_BUSTYPE, channel=CAN_CHANNEL,bitrate=CAN_BITRATE)
 except:
-    can_bus = None
+    can_bus = {}
     general_logger.error("Can Bus connection Problem")
 
 
@@ -26,5 +26,5 @@ try:
             timeout=0,
         )
 except:
-    ser = None
+    ser = {}
     error_logger.error("Serial connection Problem")

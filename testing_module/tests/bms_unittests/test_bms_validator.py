@@ -7,4 +7,4 @@ from shared.constants import TEST_STRINGS_FOR_BMS_VALIDATION
 
 def test_bms_validator():
     for string in TEST_STRINGS_FOR_BMS_VALIDATION:
-        assert bms_validation_function(string) == False
+        assert bms_validation_function(string,"dummy_uuid") == False

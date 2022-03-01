@@ -3,21 +3,22 @@ Entry_point  for stark testing.
 """
 import time
 import can
-from shared.logging_config import setup_logger
+import uuid
 from shared.constants import (INPUT_MSG, TESTING_COUNTER, CAN_INPUT_ID)
-from shared.connections import (can_bus, ser)
-from shared.loggers import stark_error_logger
-
+from shared import (can_bus, ser)
+from shared import stark_error_logger
 from send_and_receive_to_stark import send_receive_validate
 
 
-def stark_testing_function():
+def stark_testing_function(_uuid = None) -> bool:
     """This is the entry point for stark testing.
 
     Args:
-        can_bus (_object_): can_bus connection object
-        ser (_object_): serial connection object
+        _uuid (_str_): uuid for each request
     """
+    
+    if _uuid == None:
+        _uuid = str(uuid.uuid4())
     
     time.sleep(1)
     ser.write(b"DIAG_STARK_START\t")
@@ -53,7 +54,7 @@ def stark_testing_function():
                 time.sleep(1)
                 continue
 
-            res = send_receive_validate(can_bus,ser,INPUT_MSG)
+            res = send_receive_validate(INPUT_MSG, _uuid)
             
             if res==False:
                 
@@ -70,7 +71,7 @@ def stark_testing_function():
         return True
     except Exception as e:
 
-        stark_error_logger.error("Following error in stark testing: %s" %e)
+        stark_error_logger.error("uuid - %s message - Following error in stark testing: %s" %_uuid %e)
         
         time.sleep(1)
         ser.write(b"DIAG_STARK_STOP\t")

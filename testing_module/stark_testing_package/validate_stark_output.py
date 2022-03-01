@@ -1,14 +1,19 @@
-from shared.sha256_converter import converter as hash
-from shared.constants import (DEFAULT_EXPECTED_OUTPUT, SERIAL_DATA_LOG_FILENAME)
+'''
+This module will validate whether the output given by the stark is right or wrong using a hash 
+'''
 
-from shared.loggers import (stark_error_logger)
+from shared import converter as hash
+from shared.constants import (DEFAULT_EXPECTED_OUTPUT)
 
-def verify_serial(serial_data: str) -> bool:
+from shared import (stark_error_logger)
+
+def verify_serial(serial_data: str, _uuid: str) -> bool:
     
     """This function will verify whether serial ouput is right or wrong
 
     Args:
         serial_data (str): it contains serial output in string format
+        _uuid: uuid  for each request
 
     Returns:
         bool: return whether expected output and serial output are equal or not
@@ -22,5 +27,5 @@ def verify_serial(serial_data: str) -> bool:
     
     except Exception as e:
         
-        stark_error_logger.error("Serial Data not verified")
+        stark_error_logger.error("uuid - %s message - Serial Data not verified" %_uuid )
         return False

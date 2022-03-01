@@ -7,4 +7,4 @@ from shared.constants import TEST_STRINGS_FOR_CONTROLLER_VALIDATION
 
 def test_controller_validator():
     for string in TEST_STRINGS_FOR_CONTROLLER_VALIDATION:
-        assert controller_validation_function(string) == False
+        assert controller_validation_function(string,"dummy_uuid") == False
